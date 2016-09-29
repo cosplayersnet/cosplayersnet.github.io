@@ -6,27 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://cosplayers.net/</loc>
+  <loc>https://cosplayersnet.github.io/</loc>
+  <lastmod>2016-09-29T11:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cosplayersnet.github.io/archive.html</loc>
+  <lastmod>2016-09-29T13:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cosplayersnet.github.io/blog/</loc>
   <lastmod>2016-09-29T11:41:00Z</lastmod>
  </url>
  <url>
-  <loc>http://cosplayers.net/archive.html</loc>
-  <lastmod>2016-09-29T11:44:00Z</lastmod>
- </url>
- <url>
-  <loc>http://cosplayers.net/blog/</loc>
+  <loc>https://cosplayersnet.github.io/categories/</loc>
   <lastmod>2016-09-29T11:41:00Z</lastmod>
  </url>
  <url>
-  <loc>http://cosplayers.net/categories/</loc>
+  <loc>https://cosplayersnet.github.io/galleries/</loc>
   <lastmod>2016-09-29T11:41:00Z</lastmod>
  </url>
  <url>
-  <loc>http://cosplayers.net/galleries/</loc>
-  <lastmod>2016-09-29T11:41:00Z</lastmod>
- </url>
- <url>
-  <loc>http://cosplayers.net/listings/</loc>
+  <loc>https://cosplayersnet.github.io/listings/</loc>
   <lastmod>2016-09-29T11:41:00Z</lastmod>
  </url>
 </urlset>

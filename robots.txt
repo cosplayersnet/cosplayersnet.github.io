@@ -1,4 +1,4 @@
-Sitemap: http://cosplayers.net/sitemapindex.xml
+Sitemap: https://cosplayersnet.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: cosplayers.net
+Host: cosplayersnet.github.io

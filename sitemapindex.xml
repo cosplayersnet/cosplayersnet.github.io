@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://cosplayers.net/galleries/rss.xml</loc>
-  <lastmod>2016-09-29T11:44:00Z</lastmod>
+  <loc>https://cosplayersnet.github.io/galleries/rss.xml</loc>
+  <lastmod>2016-09-29T13:05:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://cosplayers.net/rss.xml</loc>
-  <lastmod>2016-09-29T11:41:00Z</lastmod>
+  <loc>https://cosplayersnet.github.io/rss.xml</loc>
+  <lastmod>2016-09-29T13:05:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://cosplayers.net/sitemap.xml</loc>
-  <lastmod>2016-09-29T11:44:00Z</lastmod>
+  <loc>https://cosplayersnet.github.io/sitemap.xml</loc>
+  <lastmod>2016-09-29T13:05:00Z</lastmod>
  </sitemap>
 </sitemapindex>

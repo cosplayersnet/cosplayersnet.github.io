@@ -1,0 +1,4 @@
+Sitemap: http://cosplayers.net/sitemapindex.xml
+
+User-Agent: *
+Host: cosplayers.net
